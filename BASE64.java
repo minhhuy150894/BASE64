@@ -1,4 +1,4 @@
-// Huy Nguyen
+// Huy Nguyen n@mhuy.xyz
 import java.io.ByteArrayOutputStream;
 import java.io.IOException;
 import java.io.OutputStream;
